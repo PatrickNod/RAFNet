@@ -39,7 +39,9 @@ In this repository, we evaluate our method using the WV3 and GF-2 datasets. Sinc
 ### Convenient Access to Results and Support for Beginners
 The creator of this repository is also the co-first author of this paper. This work represents the author's academic efforts and dedication in the fields of pansharpening and deep learning, embodying a great deal of hard work aimed at a successful submission.
 Furthermore, if researchers in the pansharpening field wish to use this paper as a baseline for comparison, please feel free to directly contact the first author to obtain the weight files and gain a deeper understanding of this work.
+
 📫 Contact Email: 2518720025@stu.xjtu.edu.cn
+
 The author would be deeply honored to communicate and exchange ideas with fellow scholars in the pansharpening community.
 
 The weight files and evaluation metrics of the network architecture will be provided later.
